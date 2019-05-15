@@ -22,7 +22,7 @@ for k, data_name in enumerate(data_sets):
     _df = pd.DataFrame(columns=['mRMR', 'svm_rfe', 'reliefF', 'df'])
     for feature_per in feature_sets:
         n_fearures = int(feature_len[k] * feature_per / 100.0)
-        rskf = RepeatedStratifiedKFold(n_splits=5, n_repeats=1, random_state=0)
+        rskf = RepeatedStratifiedKFold(n_splits=5, n_repeats=50, random_state=0)
 
         mRMR_list = []
         svm_rfe_list = []

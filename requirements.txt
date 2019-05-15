@@ -10,3 +10,4 @@ simplejson==3.8.1
 skrebate==0.6
 pymrmr==0.1.8
 psutil==5.6.2
+pandas==0.24.2
