@@ -1,6 +1,6 @@
 # MWAS-Biomarkers
 
-This repo contains the code to reproduce all of the analyses in "Robust biomarker discovery for micorbiome-wide association stuties", Qiang Zhu et al. 2019.
+This repo contains the code to reproduce all of the analyses in "Robust biomarker discovery for micorbiome-wide association stuties", Qiang Zhu et al. 2019 (https://doi.org/10.1016/j.ymeth.2019.06.012).
 
 This work is based on Deep Forest: (https://arxiv.org/abs/1702.08835)
 
