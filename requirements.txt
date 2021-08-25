@@ -2,7 +2,7 @@ scipy>=1.2.1
 matplotlib==2.0.2
 scikit-learn==0.20.3
 keras==2.2.4
-tensorflow==1.13.1
+tensorflow==2.5.1
 xgboost==0.82
 argparse==1.4.0
 joblib==0.13.2
