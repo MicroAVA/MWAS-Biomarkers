@@ -5,7 +5,7 @@ keras==2.2.4
 tensorflow==1.13.1
 xgboost==0.82
 argparse==1.4.0
-joblib==0.13.2
+joblib==1.2.0
 simplejson==3.8.1
 skrebate==0.6
 pymrmr==0.1.8
